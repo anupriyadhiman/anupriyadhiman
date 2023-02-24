@@ -1,6 +1,3 @@
-
-
-preview
 <h1 align="center">Hi 👋, I'm Anupriya Dhiman</h1>
 <h3 align="center">Welcome to my GitHub page! As a data scientist in progress, I'm constantly exploring new ways to unlock insights and drive innovation through data. My work in data science ranges from exploratory data analysis and statistical modeling to machine learning and data visualization. I have also worked with NLP, Big Data and computer vision.</h3>
 
