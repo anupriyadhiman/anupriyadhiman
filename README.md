@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anupriya Dhiman</h1>
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e4769mf0vroqtcbt0o6og2rsnk4rpj9vrturl49h8wt&rid=giphy.gif&ct=g" width="100"/>
+</div>
 <h3 align="center">Welcome to my GitHub page! As a data scientist in progress, I'm constantly exploring new ways to unlock insights and drive innovation through data. My work in data science ranges from exploratory data analysis and statistical modeling to machine learning and data visualization. I have also worked with NLP, Big Data and computer vision.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupriyadhiman&label=Profile%20views&color=0e75b6&style=flat" alt="anupriyadhiman" /> </p>
